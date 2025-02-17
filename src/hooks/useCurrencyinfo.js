@@ -13,4 +13,3 @@ function useCurrencyInfo(currency){// here currency is a variable and we can giv
     return data
 }
 export default useCurrencyInfo;
-// yahan tak 22:17 tak Custom hooks ban gya hai

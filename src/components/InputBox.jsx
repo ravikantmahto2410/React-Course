@@ -61,7 +61,7 @@ function InputBox({
   onAmountChange,
   onCurrencyChange,
   currencyOptions = [], //currency Options mein chahta hun ki user mujhe array mein pass kare , in case aap nhi karo to ek empty array to mein le hii loonga 
-  selectCurrency  = "usd",
+  selectCurrency  = "",
   amountDisable = false, // amountdisable isliye kyonkki ho sakta hai , ki kuch user amount dena chate ho ya nhi , by default hum false rakh rhe 
   currencyDisable = false,
   className = "",
